@@ -1,0 +1,2 @@
+add_executable(CustomFTParserTest main.cpp)
+target_link_libraries(CustomFTParserTest CustomFTParserLib)
